@@ -54,7 +54,7 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 </div>
 
 ## Projects
- **TryHackMe** 
+ **TryHackMe CTF** 
  
  Ranqueado Top 5% global na plataforma global de treinamento prático em Cibersegurança.
    
