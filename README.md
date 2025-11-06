@@ -60,7 +60,7 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
     * **🔗 Perfil:** https://tryhackme.com/p/EduardoR
 
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://tryhackme.com/p/EduardoR&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 
