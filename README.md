@@ -5,7 +5,6 @@ Estudante no último ciclo (5º semestre) de Tecnólogo em Segurança da Informa
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da Informação, motivado pela paixão por segurança cibernética. Busco oportunidades para atuar como Analista de Nível 1.
 
