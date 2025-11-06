@@ -1,5 +1,5 @@
 # Olá, meu nome é Eduardo! 
-<a href="(https://www.linkedin.com/in/eduardo-rodrigues-7a65aa2a8/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/eduardo-rodrigues-7a65aa2a8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Estudante no último ciclo (5º semestre) de Tecnólogo em Segurança da Informação com experiência profissional na área como Analista de Cibersegurança. Gosto de solucionar problemas e possuo um perfil analítico.
 
