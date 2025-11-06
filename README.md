@@ -4,7 +4,7 @@
 Estudante no último ciclo (5º semestre) de Tecnólogo em Segurança da Informação com experiência profissional na área como Analista de Cibersegurança. Gosto de solucionar problemas e possuo um perfil analítico.
 
 
-## Objective
+## Objetivo
 
 Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da Informação, motivado pela paixão por segurança cibernética. Busco oportunidades para atuar como Analista de Nível 1.
 
