@@ -1,8 +1,6 @@
 # Olá, meu nome é Eduardo! 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Estudante no último ciclo (5º semestre) de Tecnólogo em Segurança da Informação com experiência profissional na área como Analista de Cibersegurança. Gosto de solucionar problemas e possuo um perfil analítico.
 
 
