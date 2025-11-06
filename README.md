@@ -53,7 +53,7 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## Projetos
  **TryHackMe CTF** 
  
  Ranqueado Top 5% global na plataforma global de treinamento prático em Cibersegurança.
@@ -62,16 +62,3 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-- SOC Automation Project
