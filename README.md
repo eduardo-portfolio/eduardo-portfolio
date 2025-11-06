@@ -58,7 +58,10 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
  
  Ranqueado Top 5% global na plataforma global de treinamento prático em Cibersegurança.
     * **🔗 Perfil:** https://tryhackme.com/p/EduardoR
-<a href="https://tryhackme.com/p/EduardoR"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=link&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/EduardoR">
+  <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
 
 
 
