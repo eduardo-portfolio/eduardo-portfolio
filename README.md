@@ -6,7 +6,7 @@ Estudante no último ciclo (5º semestre) de Tecnólogo em Segurança da Informa
 
 ## Objetivo
 
-Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da Informação, motivado pela paixão por segurança cibernética. Atualmente busco oportunidades para atuar como Analista de Nível 1.
+Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da Informação, motivado pela paixão por segurança cibernética. Atualmente busco oportunidades para atuar como Analista de Cibersegurança Nível 1.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
