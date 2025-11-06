@@ -54,5 +54,21 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 </div>
 
 ## Projects
-- Detection Lab
+ **TryHackMe** 
+ Ranqueado Top 5% global na plataforma global de treinamento prático em Cibersegurança.
+    * **🔗 Perfil:** https://tryhackme.com/p/EduardoR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - SOC Automation Project
