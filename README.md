@@ -36,12 +36,14 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### Monitoring | Auditoria | Compliance
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-IBM_QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
+
+### PYTHON 3.13.7
+[Python-SSH-Honeypot](https://github.com/eduardo-portfolio/Python-SSH-Honeypot)
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
