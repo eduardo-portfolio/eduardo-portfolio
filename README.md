@@ -42,10 +42,22 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
     <img src="https://img.shields.io/badge/-IBM_QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
-### PYTHON 3.13.7
+
+
+## Microsoft Active Directory 
+
+
+
+## PYTHON 3.13.7
 [Python-SSH-Honeypot](https://github.com/eduardo-portfolio/Python-SSH-Honeypot)
 
-## Certifications
+## TryHackMe CTF
+ 
+ Ranqueado Top 5% global na plataforma global de treinamento prático em Cibersegurança.
+   
+🔗  <a href="https://tryhackme.com/p/EduardoR"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a>
+
+## Certifications 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -54,13 +66,4 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projetos
- **TryHackMe CTF** 
- 
- Ranqueado Top 5% global na plataforma global de treinamento prático em Cibersegurança.
-   
-🔗  <a href="https://tryhackme.com/p/EduardoR"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a>
-
-
 
