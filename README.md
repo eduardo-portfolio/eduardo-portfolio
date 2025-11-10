@@ -1,5 +1,5 @@
-# Olá, meu nome é Eduardo! 
-<a href="https://www.linkedin.com/in/eduardo-rodrigues-7a65aa2a8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## Olá, meu nome é Eduardo! 
+ <a href="https://www.linkedin.com/in/eduardo-rodrigues-7a65aa2a8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Estudante no último ciclo (5º semestre) de Tecnólogo em Segurança da Informação com experiência profissional na área como Analista de Cibersegurança. Gosto de solucionar problemas e possuo um perfil analítico.
 
@@ -28,21 +28,21 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 ### Endpoint
 
 
-### Monitoring | Auditoria | Compliance
-IBM Guardium Data Protection - 
+### DAM | Splunk 
+IBM Guardium Data Protection (DAM) - 
 
 
 
-## Nessus | Kali Linux 
+## Nessus | Linux 
 Avaliei vulnerabilidades com Nessus, fiz enumeração de SMB e execução remota de código (RCE) pelo Kali Linux em Samba v3.0.6 com sessão remota obtida via Metasploit.
 
 [Nessus & Samba v3.0.6 RCE](https://github.com/eduardo-portfolio/Samba-v3.0.6-RCE-)
 
-## 
+## Grafana, Zabbix, Prometheus
 
 
 ## Microsoft Active Directory | Windows Server 
-
+Criar dominios e gerenciar grupos e implementação de políticas de trabalho 
 
 
 ## Python 3.13.7 Honeypot
