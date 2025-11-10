@@ -43,12 +43,19 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 </div>
 
 
+## Recon em Nessus & Ataque RCE em SMB no lab Metasploitable (Nessus & Kali Linux) 
+Avaliei vulnerabilidades com Nessus, fiz enumeração de SMB e execução remota de código (RCE) pelo Kali Linux em Samba v3.0.6 com sessão remota obtida via Metasploit.
+
+[Nessus & Samba v3.0.6 RCE](https://github.com/eduardo-portfolio/Samba-v3.0.6-RCE)
+
+
+
 
 ## Microsoft Active Directory 
 
 
 
-## PYTHON 3.13.7
+## Python 3.13.7 Honeypot
 [Python-SSH-Honeypot](https://github.com/eduardo-portfolio/Python-SSH-Honeypot)
 
 ## TryHackMe CTF
