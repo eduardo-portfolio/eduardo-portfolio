@@ -8,54 +8,46 @@ Estudante no último ciclo (5º semestre) de Tecnólogo em Segurança da Informa
 
 Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da Informação, motivado pela paixão por segurança cibernética. Atualmente busco oportunidades para atuar como Analista de Cibersegurança Nível 1.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Experiência Profissional 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|                                     |
+|-----------------------------------------------|
+| Implementação de DAM, instalação de agentes e análise e tratamento dos dados centralizados | 
+| Network Traffic Monitoring and Attack Detection | 
+| Security Automation with Shuffle SOAR         | 
+| Incident Response Planning and Execution      | 
+| Case Management with TheHive                  | 
+| Experiência Profissional em Inglês (Nível Avançado)  |             
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+
 
 ### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+
 
 ### Monitoring | Auditoria | Compliance
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-IBM_QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
-</div>
+IBM Guardium Data Protection - 
 
 
-## Recon em Nessus & Ataque RCE em SMB no lab Metasploitable (Nessus & Kali Linux) 
+
+## Nessus | Kali Linux 
 Avaliei vulnerabilidades com Nessus, fiz enumeração de SMB e execução remota de código (RCE) pelo Kali Linux em Samba v3.0.6 com sessão remota obtida via Metasploit.
 
-[Nessus & Samba v3.0.6 RCE](https://github.com/eduardo-portfolio/Samba-v3.0.6-RCE)
+[Nessus & Samba v3.0.6 RCE](https://github.com/eduardo-portfolio/Samba-v3.0.6-RCE-)
+
+## 
 
 
-
-
-## Microsoft Active Directory 
+## Microsoft Active Directory | Windows Server 
 
 
 
 ## Python 3.13.7 Honeypot
+O projeto consiste no desenvolvimento de uma porta 22 SSH propositalmente vulnerável para atrair ataques. O sistema escuta conexões na porta, registra tentativas de acesso, e envia notificações em tempo real via Telegram.
+
 [Python-SSH-Honeypot](https://github.com/eduardo-portfolio/Python-SSH-Honeypot)
 
 ## TryHackMe CTF
@@ -65,12 +57,9 @@ Avaliei vulnerabilidades com Nessus, fiz enumeração de SMB e execução remota
 🔗  <a href="https://tryhackme.com/p/EduardoR"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a>
 
 ## Certifications 
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+University of Colorado Boulder - [Security & Ethical Hacking: Attacking Unix and Windows](https://coursera.org/verify/CRMFO57KGCYJ)<br />
+IBM - [Introduction to Cybersecurity Tools & Cyber Attacks](https://coursera.org/verify/WYXCFQURXVFJ)<br />
+Google - [Play It Safe: Manage Security Risks](https://coursera.org/verify/3N68QDTEXAVF)<br />
+Saylor Academy - [Business-Proficient English as a Second Language](https://learn.saylor.org/admin/tool/certificate/index.php?code=4111546790ER) <br />
 
