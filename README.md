@@ -10,17 +10,12 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 
 ## Experiência Profissional 
 
-|                                     |
-|-----------------------------------------------|
-| Implementação de DAM, instalação de agentes e análise e tratamento dos dados centralizados | 
-| Network Traffic Monitoring and Attack Detection | 
-| Security Automation with Shuffle SOAR         | 
-| Incident Response Planning and Execution      | 
-| Case Management with TheHive                  | 
-| Experiência Profissional em Inglês (Nível Avançado)  |             
+
+LINK: Implementação de DAM, instalação de agentes e análise e tratamento dos dados centralizados <br />
+
+VIDEO YT falando em ingles: Experiência Profissional em Inglês (Nível Avançado)           
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 
