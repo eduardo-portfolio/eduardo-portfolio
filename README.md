@@ -56,7 +56,7 @@ O projeto consiste no desenvolvimento de uma porta 22 SSH propositalmente vulner
    
 🔗  <a href="https://tryhackme.com/p/EduardoR"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a>
 
-## Certifications 
+## Certificados
 
 University of Colorado Boulder - [Security & Ethical Hacking: Attacking Unix and Windows](https://coursera.org/verify/CRMFO57KGCYJ)<br />
 IBM - [Introduction to Cybersecurity Tools & Cyber Attacks](https://coursera.org/verify/WYXCFQURXVFJ)<br />
