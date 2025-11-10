@@ -15,7 +15,7 @@ LINK: Implementação de DAM, instalação de agentes e análise e tratamento do
 
 VIDEO YT falando em ingles: Experiência Profissional em Inglês (Nível Avançado)           
 
-## Tools
+## Ferramentas
 
 ### Network
 
@@ -29,25 +29,22 @@ IBM Guardium Data Protection (DAM) -
 
 
 ## Nessus | Linux 
-Avaliei vulnerabilidades com Nessus, fiz enumeração de SMB e execução remota de código (RCE) pelo Kali Linux em Samba v3.0.6 com sessão remota obtida via Metasploit.
 
 [Nessus & Samba v3.0.6 RCE](https://github.com/eduardo-portfolio/Samba-v3.0.6-RCE-)
 
 ## Grafana, Zabbix, Prometheus
-
 
 ## Microsoft Active Directory | Windows Server 
 Criar dominios e gerenciar grupos e implementação de políticas de trabalho 
 
 
 ## Python 3.13.7 Honeypot
-O projeto consiste no desenvolvimento de uma porta 22 SSH propositalmente vulnerável para atrair ataques. O sistema escuta conexões na porta, registra tentativas de acesso, e envia notificações em tempo real via Telegram.
 
 [Python-SSH-Honeypot](https://github.com/eduardo-portfolio/Python-SSH-Honeypot)
 
 ## TryHackMe CTF
  
- Ranqueado Top 5% global na plataforma global de treinamento prático em Cibersegurança.
+ Ranqueado Top 5% global 
    
 🔗  <a href="https://tryhackme.com/p/EduardoR"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a>
 
