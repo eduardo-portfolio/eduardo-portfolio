@@ -3,27 +3,27 @@
 
 Estudante no último ciclo (5º semestre) de Tecnólogo em Segurança da Informação com experiência profissional na área como Analista de Cibersegurança. Gosto de solucionar problemas e possuo um perfil analítico.
 
-
 ## Objetivo
 
 Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da Informação, motivado pela paixão por segurança cibernética. Atualmente busco oportunidades para atuar como Analista de Cibersegurança Nível 1.
 
 ## Experiência Profissional 
-
-
-LINK: Implementação de DAM, instalação de agentes e análise e tratamento dos dados centralizados <br />
-
-VIDEO YT falando em ingles: Experiência Profissional em Inglês (Nível Avançado)           
+- Implementação de DAM, instalação de agentes e análise e tratamento dos dados centralizados <br />
+- Gerenciamento de DB em sistemas Linux e Windows. <br />
+- JumpServer
+- Relatórios em Excel 
+- Experiência Profissional em Inglês (Nível Avançado)           
 
 ## Ferramentas
+Nessus, Linux, JumpServer
 
 ### Network
-
+Nmap, 
 
 ### Endpoint
+Microsoft Sentinel
 
-
-### DAM | Splunk 
+### DAM | Microsoft Sentinel
 IBM Guardium Data Protection (DAM) - 
 
 
@@ -35,8 +35,8 @@ IBM Guardium Data Protection (DAM) -
 ## Grafana, Zabbix, Prometheus
 
 ## Microsoft Active Directory | Windows Server 
-Criar dominios e gerenciar grupos e implementação de políticas de trabalho 
 
+[Fundamentos de Active Directory](https://github.com/eduardo-portfolio/Fundamentos-de-Active-Directory-)
 
 ## Python 3.13.7 Honeypot
 
@@ -48,10 +48,15 @@ Criar dominios e gerenciar grupos e implementação de políticas de trabalho
    
 🔗  <a href="https://tryhackme.com/p/EduardoR"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a>
 
+
 ## Certificados
 
 University of Colorado Boulder - [Security & Ethical Hacking: Attacking Unix and Windows](https://coursera.org/verify/CRMFO57KGCYJ)<br />
 IBM - [Introduction to Cybersecurity Tools & Cyber Attacks](https://coursera.org/verify/WYXCFQURXVFJ)<br />
 Google - [Play It Safe: Manage Security Risks](https://coursera.org/verify/3N68QDTEXAVF)<br />
 Saylor Academy - [Business-Proficient English as a Second Language](https://learn.saylor.org/admin/tool/certificate/index.php?code=4111546790ER) <br />
+
+## Extra
+Desenvolvimento de Jogos em Luau <br />
+https://www.youtube.com/@CloudOrbit
 
