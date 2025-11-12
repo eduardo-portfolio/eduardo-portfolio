@@ -23,6 +23,9 @@ Nmap,
 ### Endpoint
 Microsoft Sentinel
 
+### DevSecOps Pipeline CI com Python & Bandit
+[DevSecOps Pipeline CI com Python & Bandit](https://github.com/eduardo-portfolio/devsecops)
+
 ### DAM | Microsoft Sentinel
 IBM Guardium Data Protection (DAM) - 
 
