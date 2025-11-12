@@ -24,7 +24,7 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 
 [Fundamentos de Active Directory](https://github.com/eduardo-portfolio/Fundamentos-de-Active-Directory-)
 
-## Python 3.13.7 Honeypot
+## Python 3.13.7 Honeypot + API Telegram 
 
 [Python-SSH-Honeypot](https://github.com/eduardo-portfolio/Python-SSH-Honeypot)
 
