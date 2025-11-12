@@ -10,26 +10,11 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 ## Experiência Profissional 
 - Implementação de DAM, instalação de agentes e análise e tratamento dos dados centralizados <br />
 - Gerenciamento de DB em sistemas Linux e Windows. <br />
-- JumpServer
 - Relatórios em Excel 
 - Experiência Profissional em Inglês (Nível Avançado)           
 
-## Ferramentas
-Nessus, Linux, JumpServer
-
-### Network
-Nmap, 
-
-### Endpoint
-Microsoft Sentinel
-
-### DevSecOps Pipeline CI com Python & Bandit
+## DevSecOps Pipeline CI com Python & Bandit
 [DevSecOps Pipeline CI com Python & Bandit](https://github.com/eduardo-portfolio/devsecops)
-
-### DAM | Microsoft Sentinel
-IBM Guardium Data Protection (DAM) - 
-
-
 
 ## Nessus | Linux 
 
