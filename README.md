@@ -35,8 +35,6 @@ IBM Guardium Data Protection (DAM) -
 
 [Nessus & Samba v3.0.6 RCE](https://github.com/eduardo-portfolio/Samba-v3.0.6-RCE-)
 
-## Grafana, Zabbix, Prometheus
-
 ## Microsoft Active Directory | Windows Server 
 
 [Fundamentos de Active Directory](https://github.com/eduardo-portfolio/Fundamentos-de-Active-Directory-)
