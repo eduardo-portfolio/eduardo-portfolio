@@ -14,7 +14,7 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 - Experiência Profissional em Inglês (Nível Avançado)           
 
 ## DevSecOps Pipeline CI com Python & Bandit
-[DevSecOps Pipeline CI com Python & Bandit](https://github.com/eduardo-portfolio/devsecops)
+[DevSecOps Pipeline CI com Python & Bandit](https://github.com/eduardo-portfolio/devsecopsdemo)
 
 ## Nessus | Linux 
 
