@@ -7,12 +7,6 @@ Estudante no último ciclo (5º semestre) de Tecnólogo em Segurança da Informa
 
 Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da Informação, motivado pela paixão por segurança cibernética. Atualmente busco oportunidades para atuar como Analista de Cibersegurança Nível 1.
 
-## Experiência Profissional 
-- Implementação de DAM, instalação de agentes e análise e tratamento dos dados centralizados <br />
-- Gerenciamento de DB em sistemas Linux e Windows. <br />
-- Relatórios em Excel 
-- Experiência Profissional em Inglês (Nível Avançado)           
-
 ## DevSecOps Pipeline CI com Python | Bandit (SAST) | YAML 
 [DevSecOps Pipeline CI com Python & Bandit](https://github.com/eduardo-portfolio/devsecopsdemo)
 
