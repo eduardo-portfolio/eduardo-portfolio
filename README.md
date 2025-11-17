@@ -23,8 +23,6 @@ Comecei como estudante de ADS, porém migrei para a Tecnologia em Segurança da 
 [Python-SSH-Honeypot](https://github.com/eduardo-portfolio/Python-SSH-Honeypot)
 
 ## TryHackMe CTF
- 
- Ranqueado Top 5% global 
    
 🔗  <a href="https://tryhackme.com/p/EduardoR"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a>
 
